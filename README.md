@@ -1,1 +1,1 @@
-uros.netlify.app
+https://uros.netlify.app/
